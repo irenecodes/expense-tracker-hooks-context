@@ -3,6 +3,10 @@
 Hello, besides the template below, this project is credited to Brad Traversy.
 See https://www.youtube.com/watch?v=XuFDcZABiDQ for the lesson followed.
 
+## Irene's TODO
+
+- [ ] - Node.js and Express API continuation found here https://www.youtube.com/watch?v=KyWaXA_NvT0&t=0s
+
 ## Available Scripts
 
 In the project directory, you can run:
